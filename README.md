@@ -7,7 +7,7 @@ EndoCLIP is developed on top of [OpenCLIP](https://github.com/mlfoundations/open
 Clone this repository together with OpenCLIP:
 
 ```bash
-git clone --recurse-submodules https://github.com/FDU-MICCAI/EndoCLIP.git
+git clone --recurse-submodules https://github.com/Jia7878/EndoCLIP.git
 ```
 
 If the repository was cloned without submodules, initialize OpenCLIP with:
