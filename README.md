@@ -20,13 +20,7 @@ git submodule update --init --recursive
 
 The de-identified EndoReport100 release contains 100 cases and 7,003 frames, together with frame-level annotations and instance metadata.
 
-[Request access to EndoReport100 on Google Drive](https://drive.google.com/file/d/1Q8RhuoajghvtNZ7-xvWKnnGOix4ZI65k/view?usp=sharing)
-
-Access is restricted and subject to approval by the dataset owners. The SHA-256 checksum of the current `EndoReport100.tar` release is:
-
-```text
-dcc173d139c6b3f1478160f79a52ce72488930abd971097f829fdb985628b529
-```
+[Request access to EndoReport100 on FigShare](https://doi.org/10.6084/m9.figshare.33085637)
 
 ## Acknowledgment
 
