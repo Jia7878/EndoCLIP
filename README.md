@@ -100,6 +100,8 @@ python -c "import open_clip; print(open_clip.__version__)"
 
 ## Data: EndoReport100
 
+If EndoCLIP or EndoReport100 is useful for your research, please cite our paper: [A report-grounded vision-language foundation model for colonoscopy from 280,000 routine reports](https://arxiv.org/abs/2607.28466).
+
 The de-identified **EndoReport100** release contains **100 cases** and **7,003 frames**,
 together with frame-level annotations and instance metadata.
 
@@ -230,16 +232,9 @@ applies verbatim:
 
 ## Citation
 
-If EndoCLIP or EndoReport100 is useful for your research, please cite this repository:
+If EndoCLIP or EndoReport100 is useful for your research, please cite our paper: [A report-grounded vision-language foundation model for colonoscopy from 280,000 routine reports](https://arxiv.org/abs/2607.28466).
 
-```bibtex
-@misc{endoclip,
-  title        = {EndoCLIP: Endoscopy Vision-Language Modeling},
-  author       = {{FDU-MICCAI}},
-  year         = {2026},
-  howpublished = {\url{https://github.com/Jia7878/EndoCLIP}}
-}
-```
+
 
 Please **also** cite OpenCLIP, whose implementation this work is built on. The upstream
 citation metadata is preserved in [`CITATION_openclip.cff`](CITATION_openclip.cff):
@@ -268,9 +263,6 @@ The code in this repository is distributed under the **MIT license** inherited f
 OpenCLIP — see [`LICENSE`](LICENSE). The original copyright notice of the OpenCLIP authors
 is retained unmodified.
 
-The **EndoReport100** dataset is *not* covered by that license. It is released separately
-under restricted access and remains subject to the terms stated on its
-[FigShare record](https://doi.org/10.6084/m9.figshare.33085637).
 
 ---
 
